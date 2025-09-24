@@ -23,14 +23,19 @@ Aplicación simple para gestionar notas personales usando Jetpack Compose y la a
 **Capturas**
 
 - Pantalla con la lista vacía.
+  
 
   ![Imagen de WhatsApp 2025-09-23 a las 20 20 37_04b8d7a3](https://github.com/user-attachments/assets/20dacfa4-e586-4a69-8a35-c4fd19228f96)
 
 - Agregando notas.
+
+  
 ![Imagen de WhatsApp 2025-09-23 a las 20 20 37_aef53ea1](https://github.com/user-attachments/assets/e96da5fb-d8e9-49ef-bae3-99e4f5447df5)
 
   
 - Eliminando notas.
+
+  
 ![Imagen de WhatsApp 2025-09-23 a las 20 20 37_4e24c426](https://github.com/user-attachments/assets/89227be3-5b82-42a3-8c44-31cdf617347c)
 
   
